@@ -1,2 +1,2 @@
 print("Welcome to the Canteen")
-print("Tea - Rs. 12")
+print("Tea - Rs. 15")
