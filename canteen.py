@@ -5,3 +5,5 @@ print("2. Dosa - Rs. 50")
 print("3. Tea - Rs. 10")
 
 print("4. Coffee - Rs. 20")
+
+print("5. Samosa - Rs. 15")
